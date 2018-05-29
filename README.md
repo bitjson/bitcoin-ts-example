@@ -1,6 +1,6 @@
 # bitcoin-ts-example
 
-This is a very simple playground for trying `bitcoin-ts`.
+This is a very simple playground for trying [`bitcoin-ts`](https://github.com/bitjson/bitcoin-ts).
 
 Just clone the repo and explore the library using an IDE with good TypeScript integration (like VSCode):
 
