@@ -1,0 +1,14 @@
+{
+  "name": "bitcoin-ts-example",
+  "version": "1.0.0",
+  "description": "a bitcoin-ts playground",
+  "dependencies": {
+    "bitcoin-ts": "^1.0.1",
+    "ts-node": "^6.0.5",
+    "typescript": "^2.8.3"
+  },
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "license": "MIT"
+}
